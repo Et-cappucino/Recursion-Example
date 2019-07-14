@@ -1,5 +1,3 @@
-# Recursion-Example
-An example of recursion and how it works
 
 function loop (num) {
 if (num === 0 ) {
